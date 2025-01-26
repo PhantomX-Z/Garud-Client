@@ -69,6 +69,6 @@ fi
 # Reload shell configuration
 source ~/.bashrc
 
-cd $HOME/Garud-Client/Android # Change the path before running the script.
+cd /workspaces/Garud-Client/Android # Change the path before running the script.
 ./gradlew assembleDebug
 

@@ -25,8 +25,8 @@ core.cheats = {
 		["No Stars"] = "No_Stars",
 		["Killaura"] = "Killaura",
 		["No Natural Damage"] = "no_natural_damage",
-		["Dodge [K]"] = "dodge",
-		["AutoEscape [K]"] = "autoescape",
+		--["Dodge [K]"] = "dodge",
+		--["AutoEscape [K]"] = "autoescape",
 		["Elysium Mode"] = "elysiummode",
 		["No Knockback"] = "noknockback",
 		["Jetpack"] = "jetpack",
@@ -38,6 +38,7 @@ core.cheats = {
 		["Auto Hit"] = "autohit",
 		["Auto Place"] = "autoplace",
 		["Auto Dig"] = "autodig",
+		["Fast Dig"] = "fastdig",
 		["Through Walls"] = "dont_point_nodes",
 	},
 }

@@ -19,8 +19,10 @@ local settings = {
     {"Killaura", "Killaura"},
     {"autoaim", "Aimbot"},
     {"autohit", "Auto Hit"},
-   -- {"dodge", "Dodge (K)"},
-    --{"autoescape", "Auto Escape (K)"},
+    {"autodig", "Auto dig"},
+    {"autoplace", "Auto Place"},
+    {"fastdig", "Fast dig"},
+    {"autorespawn", "Auto Respawn"},
     {"noknockback", "No Knockback"},
 
     -- Movement Cheats
@@ -171,15 +173,11 @@ minetest.register_on_formspec_input(function(formname, fields)
     if fields["toggle_elysiummode"] == "true" then
         minetest.display_chat_message(minetest.colorize("#FFFDD0", "In elysium, killaura, player esp and tracers do not work due to the way the player's friendliness is checked (whether the player is to be ignored by killaura, esp and tracers or not) in this case use the elysium mode. (Use Elysium Mode when in Elysium only or it may break things.)"))
     end
-    if fields["toggle_Killaura"] == "true" then
-        minetest.display_chat_message(minetest.colorize("#FFFDD0", "Info: Addons of killaura end with (K). They require killaura to be turned on to work."))
-    end
-
     if fields["toggle_custom_sky"] == "true" then
         minetest.settings:set("Sun", "false")
         minetest.settings:set("Moon", "false")
         minetest.settings:set("Clouds", "false")
-        minetest.display_chat_message(minetest.colorize("#FF0000", "Note:" .. minetest.colorize("#FFFDD0", " Please leave and join after changing the skybox for the changes to apply.")))
+        minetest.display_chat_message(minetest.colorize("#FF0000", "Note:" .. minetest.colorize("#FFFDD0", " Please leave and join for the changes to apply.")))
 
     end
 

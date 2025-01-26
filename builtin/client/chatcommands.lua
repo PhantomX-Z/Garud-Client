@@ -92,14 +92,14 @@ core.register_chatcommand("fastdig", {
 			minetest.display_chat_message(minetest.colorize("#FF0000", "Invalid usage of command."))
 			return
 		elseif param == "" then
-			minetest.display_chat_message(minetest.colorize("#00FF00", "Autoplace: " .. minetest.settings:get("fastplace")))
+			minetest.display_chat_message(minetest.colorize("#00FF00", "Fastdig: " .. minetest.settings:get("fastdig")))
 			return
 		elseif param == "on" then
-			minetest.settings:set("autoplace", "true")
-			minetest.display_chat_message(minetest.colorize("#00FF00", "Autoplace is enabled."))
+			minetest.settings:set("fastdig", "true")
+			minetest.display_chat_message(minetest.colorize("#00FF00", "Fastdig is enabled."))
 		elseif param == "off" then 
-			minetest.settings:set("autoplace", "false")
-			minetest.display_chat_message(minetest.colorize("#FF0000", "Autoplace is disabled."))
+			minetest.settings:set("fastdig", "false")
+			minetest.display_chat_message(minetest.colorize("#FF0000", "Fastdig is disabled."))
 		end
 		
 
