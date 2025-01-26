@@ -22,8 +22,9 @@ local client_developers = {
 	"Dvadasha (left the project)",
 }
 local client_credits = {
-	"Maintainer_",
-	"Otter",
+	"Maintainer_ [Help]",
+	"Otter [Tracsrs and ESP for CTF]",
+	"Prounce [Custom Sky]",
 }
 
 local core_developers = {
