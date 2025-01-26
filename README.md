@@ -13,7 +13,11 @@ Due to multicraft being based on a relatively older version of minetest it misse
 
 We are currently working on the continuation of this project ([Project-PhantomX](https://github.com/Project-PhantomX)) which is based on minetest v5.11-dev and aims to target all major OS's like android, windows and mac. If you would like to join contact me on discord (astra008.).
 
-*Click on the tab button (below the chat button) for the cheat menu to show up*
+Info
+------------------
+* Click on the tab button (below the chat button) for the cheat menu to show up
+* To change the server list from Minetest's to Multicraft's, update the `serverlist_url` setting to `servers.multicraft.world`. 
+Alternatively, run the command `.set serverlist_url servers.multicraft.world` in-game and reload the game for the changes to take effect.
 
 Table of Contents
 ------------------
