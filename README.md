@@ -1,14 +1,19 @@
 Garud Client [ANDROID]
 ======================
 
+[![Downloads](https://img.shields.io/github/downloads/astra0081X/Garud-Client/total.svg)](https://github.com/astra0081X/Garud-Client/releases)
 [![License](https://img.shields.io/badge/license-LGPLv3.0%2B-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC_BY--SA_4.0-orange.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+<img src="showcase/showcase.png" alt="showcase" width="80%" />
 
 Garud Client is a minetest cheat client for android based of off multicraft, fully developed on a phone. 
 
 Due to multicraft being based on a relatively older version of minetest it misses a lot of new features so this client is not in active development anymore, although ill occasionaly commit to this repo if there any bugs.
 
 We are currently working on the continuation of this project ([Project-PhantomX](https://github.com/Project-PhantomX)) which is based on minetest v5.11-dev and aims to target all major OS's like android, windows and mac. If you would like to join contact me on discord (astra008.).
+
+*Click on the tab button (below the chat button) for the cheat menu to show up*
 
 Table of Contents
 ------------------
