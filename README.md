@@ -1,6 +1,9 @@
 Garud Client [ANDROID]
 ======================
 
+
+[![Clones](https://img.shields.io/badge/clones-150-green)](https://github.com/astra0081X/Garud-Client/traffic)
+[![Views](https://img.shields.io/badge/views-300-blue)](https://github.com/astra0081X/Garud-Client/traffic)
 [![Downloads](https://img.shields.io/github/downloads/astra0081X/Garud-Client/total.svg)](https://github.com/astra0081X/Garud-Client/releases)
 [![License](https://img.shields.io/badge/license-LGPLv3.0%2B-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC_BY--SA_4.0-orange.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
