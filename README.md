@@ -11,6 +11,8 @@ Due to multicraft being based on a relatively older version of minetest it misse
 
 We are currently working on the continuation of this project ([Project-PhantomX](https://github.com/Project-PhantomX)) which is based on minetest v5.11-dev and aims to target all major OS's like android, windows and mac. If you would like to join contact me on discord (astra008.).
 
+*Click on the tab button (below the chat button) for the cheat menu to show up*
+
 Table of Contents
 ------------------
 
