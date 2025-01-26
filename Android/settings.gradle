@@ -1,0 +1,2 @@
+rootProject.name = "Garud Client"
+include ':app', ':native'
